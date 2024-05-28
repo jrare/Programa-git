@@ -1,4 +1,4 @@
 echo "jahir: Tu jahir" > kotlin.txt
 echo "Correo: seempresario.om@hotmail.com" >> kotlin.txtkotlin.txt
-
+echo
 
